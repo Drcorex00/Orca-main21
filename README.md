@@ -31,7 +31,6 @@ fallback to the next if a call fails:
 
 | Variable | Where to get it |
 | --- | --- |
-| `LOVABLE_API_KEY` | set automatically when running on Lovable |
 | `OPENAI_API_KEY` | https://platform.openai.com/api-keys |
 | `GEMINI_API_KEY` | https://aistudio.google.com/apikey |
 
